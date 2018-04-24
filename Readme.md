@@ -16,7 +16,7 @@ A [skip list](http://en.wikipedia.org/wiki/Skip_list) is a data structure that s
 A [splay tree](http://en.wikipedia.org/wiki/Splay_tree) is a type of binary search tree where every access to the tree results in the tree being rearranged so that the current node gets put on top.
 
 ## Stack
-A [stack](http://en.wikipedia.org/wiki/Stack_(abstract_data_type%29) is a last-in last-out data structure.
+A [stack](http://en.wikipedia.org/wiki/Stack_(abstract_data_type%29) is a first-in last-out data structure.
 
 ## Trie
 A [trie](http://en.wikipedia.org/wiki/Trie) is a type of tree where each node represents one byte of a key.
